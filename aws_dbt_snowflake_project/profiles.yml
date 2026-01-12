@@ -1,7 +1,7 @@
 aws_dbt_snowflake_project:
   outputs:
     dev:
-      account: MDGPRUK-YU06335
+      account: ***************
       database: AIRBNB
       password: **********************
       role: ACCOUNTADMIN
